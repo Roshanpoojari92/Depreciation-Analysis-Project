@@ -1,4 +1,4 @@
-### 📊 Depreciation Analysis Project
+### 📊 Depreciation Analysis Project (EXCEL)
 Straight-Line Method (SLM) vs Diminishing Balance Method (DBM)
 
 ### 📌 Project Overview
