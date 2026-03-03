@@ -1,121 +1,115 @@
-📊 Depreciation Analysis Project
-Straight-Line Method (SLM) vs. Diminishing Balance Method (DBM)
-🔎 Project Overview
+### 📊 Depreciation Analysis Project
+Straight-Line Method (SLM) vs Diminishing Balance Method (DBM)
 
-This project presents a comprehensive financial comparison between two widely used depreciation methods — Straight-Line Method (SLM) and Diminishing Balance Method (DBM).
+####📌 Project Overview
 
-Using a sample asset valued at ₹500,000 with a 10-year useful life and ₹50,000 residual value, the analysis demonstrates how different depreciation approaches impact:
+This project presents a comprehensive financial comparison between two major depreciation techniques:
 
-Annual expense recognition
+Straight-Line Method (SLM)
 
-Profitability
+Diminishing Balance Method (DBM)
 
-Book value trends
+Using a sample asset valued at ₹500,000, with a 10-year useful life and ₹50,000 residual value, this analysis demonstrates how different depreciation methodologies influence:
 
-Financial reporting strategy
+📉 Profit & Loss statements
 
-The project highlights how mathematical models influence accounting outcomes and business decision-making.
+📊 Book value trends
 
-🎯 Project Objectives
-1️⃣ Methodological Comparison
+💰 Expense recognition timing
 
-Evaluate the financial impact of:
+📈 Strategic financial decisions
 
-Fixed depreciation (SLM)
+🎯 Objectives
 
-Accelerated depreciation (DBM)
+✔ Compare fixed vs accelerated depreciation models
+✔ Build 10-year dynamic depreciation schedules
+✔ Analyze long-term financial reporting impact
+✔ Provide strategic recommendations
 
-2️⃣ Data Modeling & Financial Structuring
+📊 Asset Details Used in Analysis
+Parameter	Value
+Asset Cost	₹500,000
+Useful Life	10 Years
+Residual Value	₹50,000
+Total Depreciable Amount	₹450,000
+📘 Method 1: Straight-Line Method (SLM)
+📌 Formula:
 
-Designed 10-year depreciation schedules
-
-Built dynamic Excel-based financial calculations
-
-Automated depreciation rate and book value computation
-
-3️⃣ Strategic Business Insights
-
-Identify which method aligns better with different asset categories
-
-Provide recommendations based on business strategy and asset usage pattern
-
-📈 Key Calculations & Insights
-🟢 Straight-Line Method (SLM)
+AnnualDepreciation=(Cost−ResidualValue)/UsefulLife
+🔢 Key Results:
 
 Annual Depreciation: ₹45,000
 
 Depreciation Rate: 9%
 
-Total Depreciation (10 Years): ₹450,000
+Total Depreciation: ₹450,000
 
-End-of-Life Book Value: ₹50,000 (Equal to Scrap Value)
+Final Book Value: ₹50,000
 
-✅ Best Suited For:
-Assets that provide consistent utility over time — such as buildings, furniture, or long-term infrastructure.
+💡 Financial Insight:
 
-📌 Financial Impact:
-
-Stable annual expense
+Consistent annual expense
 
 Predictable profit margins
 
-Simplified budgeting & reporting
+Ideal for stable long-term assets
 
-🔵 Diminishing Balance Method (DBM)
+📕 Method 2: Diminishing Balance Method (DBM)
+📌 Formula:
+ AnnualDepreciation=(Cost−ResidualValue)/UsefulLife
+Depreciation=OpeningBookValue×Rate
+🔢 Key Results:
 
 Year 1 Depreciation: ₹102,835.88
 
 Year 10 Depreciation: ₹12,946.27
 
-Higher depreciation in early years, lower in later years
+Accelerated expense recognition
 
-✅ Best Suited For:
-Assets that lose value rapidly — such as technology, machinery, and vehicles.
+💡 Financial Insight:
 
-📌 Financial Impact:
+Higher depreciation in early years
 
-Higher early-year expense
+Tax optimization advantage
 
-Tax efficiency benefits
+Suitable for tech, vehicles, machinery
 
-Better matching of cost with actual usage pattern
+📈 Visual Comparison
+🔹 Straight-Line Trend
 
-📂 Repository Contents
+Linear book value reduction
 
-📄 Depreciation-Calculator-Excel.csv
+Constant annual expense
 
-Complete 10-year depreciation schedules
+🔹 Diminishing Balance Trend
 
-Automated formulas
+Steep early drop
 
-Book value tracking
+Gradual flattening in later years
 
-📊 Project Presentation (PPT)
+(You can upload your Excel chart screenshot here and replace below placeholder)
 
-Concept explanation
+📷 <img width="689" height="502" alt="image" src="https://github.com/user-attachments/assets/ee1ec8ba-f853-44c7-9316-afe04dc2eb4a" />
+<img width="657" height="314" alt="image" src="https://github.com/user-attachments/assets/27536056-5f91-430c-8661-8eadd4bee9ca" />
 
-Formula breakdown
 
-Comparative financial visualization
-
-Strategic recommendation
-
-🏁 Final Conclusion
-
-✔️ Straight-Line Method (SLM) is ideal for assets with steady performance and predictable usage.
-
-✔️ Diminishing Balance Method (DBM) is more suitable for high-performance or rapidly depreciating assets, ensuring better expense matching and potential tax optimization.
-
-💼 Skills Demonstrated
+🛠 Skills Demonstrated
 
 Financial Modeling
 
-Advanced Excel Calculations
+Excel Formulas & Automation
 
-Accounting Concepts
+Accounting Principles
 
 Business Strategy Analysis
 
 Data Interpretation
 
 Corporate Finance Fundamentals
+
+
+👤 Author
+
+Roshan Poojari
+Finance & Data Analytics
+📍 Pune, India
