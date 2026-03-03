@@ -58,6 +58,7 @@ Ideal for stable long-term assets
 📕 Method 2: Diminishing Balance Method (DBM)
 📌 Formula:
  AnnualDepreciation=(Cost−ResidualValue)/UsefulLife
+ 
 Depreciation=OpeningBookValue×Rate
 🔢 Key Results:
 
@@ -90,7 +91,8 @@ Gradual flattening in later years
 
 (You can upload your Excel chart screenshot here and replace below placeholder)
 
-📷 <img width="689" height="502" alt="image" src="https://github.com/user-attachments/assets/ee1ec8ba-f853-44c7-9316-afe04dc2eb4a" />
+Screensort📷 
+<img width="689" height="502" alt="image" src="https://github.com/user-attachments/assets/ee1ec8ba-f853-44c7-9316-afe04dc2eb4a" />
 <img width="657" height="314" alt="image" src="https://github.com/user-attachments/assets/27536056-5f91-430c-8661-8eadd4bee9ca" />
 
 
