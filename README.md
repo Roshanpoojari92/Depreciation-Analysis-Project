@@ -1,7 +1,7 @@
 ### 📊 Depreciation Analysis Project
 Straight-Line Method (SLM) vs Diminishing Balance Method (DBM)
 
-####📌 Project Overview
+### 📌 Project Overview
 
 This project presents a comprehensive financial comparison between two major depreciation techniques:
 
@@ -27,14 +27,15 @@ Using a sample asset valued at ₹500,000, with a 10-year useful life and ₹50,
 ✔ Provide strategic recommendations
 
 📊 Asset Details Used in Analysis
+
 Parameter	Value
 Asset Cost	₹500,000
 Useful Life	10 Years
 Residual Value	₹50,000
 Total Depreciable Amount	₹450,000
-📘 Method 1: Straight-Line Method (SLM)
-📌 Formula:
 
+### 📘 Method 1: Straight-Line Method (SLM)
+📌 Formula:
 AnnualDepreciation=(Cost−ResidualValue)/UsefulLife
 🔢 Key Results:
 
